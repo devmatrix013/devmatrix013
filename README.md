@@ -1,6 +1,6 @@
 ### Hi there 👋,
 <br />
-I'm [Abd Tech Guru](https://github.com/adevtech) 🌱
+I'm [ADevTech](https://github.com/adevtech) 🌱
 <br />
 <p>
 As a Skilled FullStack JavaScript Developer 🚀 . Always working on some projects or learning something new!
