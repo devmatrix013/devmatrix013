@@ -71,7 +71,3 @@ Things I am currently experimenting with : jest , enzyme , typescript, docker...
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-<p align="center">
-    <a href="https://github.com/adevtech"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adevtech&theme=tokyonight"  width="520" alt="adevtech"/></a>
-<a href="https://github.com/adevtech"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adevtech&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="adevtech"/></a>
-</p>
