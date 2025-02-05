@@ -3,23 +3,7 @@
 I'm [ADevTech](https://github.com/adevtech) 🌱
 <br />
 <p>
-As a Skilled FullStack JavaScript Developer 🚀 . Always working on some projects or learning something new!
-<br/>
-Stacks I have worked with : 
-<br/>
-MERN - React+Firebase , Meteor+React , Next+React
-<br/>
-MEAN - Angular+Firebase
-<br/>
-VueJS - Vue2, Vue3, Nuxt.
-<br/> 
-NodeJS - ExpressJS, NestJS
-<br/> 
-Database - MongoDB, Postgresql, Mysql
-<br/> 
-<br/>
-Things I am currently experimenting with : jest , enzyme , typescript, docker...
-<br/>
+As a Skilled FullStack Developer 🚀 . Always working on some projects or learning something new!
 ### 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
